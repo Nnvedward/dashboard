@@ -1,7 +1,9 @@
-function App() {
+import Topbar from "./components/Topbar";
+
+const App = () => {
   return (
-    <div className="App">
-      Dashboard
+    <div>
+      <Topbar />
     </div>
   );
 }
