@@ -1,8 +1,8 @@
 import './sidebar.css'
 
 import React from 'react'
-import { ChatBubbleOutline, CurrencyExchange, DynamicFeed, LineStyle, MailOutline, PermIdentity, Report, Storefront, Timeline, TrendingUp, WorkOutline } from '@mui/icons-material'
-import { BarChart } from 'recharts'
+import { BarChart, ChatBubbleOutline, CurrencyExchange, DynamicFeed, LineStyle, MailOutline, PermIdentity, Report, Storefront, Timeline, TrendingUp, WorkOutline } from '@mui/icons-material'
+
 
 const Sidebar = () => {
     return (
