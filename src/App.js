@@ -10,6 +10,7 @@ import {
 import UserList from "./pages/userList/UserList";
 import User from "./pages/user/User";
 import NewUser from "./pages/newUser/NewUser";
+import ProductList from "./pages/productList/ProductList";
 
 const App = () => {
   return (
@@ -30,6 +31,10 @@ const App = () => {
           <Route path="/newUser">
             <NewUser />
           </Route>
+          <Route path="/products">
+            <ProductList />
+          </Route>
+
         </Switch>
       </div>
     </Router>
@@ -37,3 +42,10 @@ const App = () => {
 }
 
 export default App;
+
+// <Route path="/product/:productId">
+//             <Product />
+//           </Route>
+//           <Route path="/newProduct">
+//             <NewProduct />
+//           </Route>

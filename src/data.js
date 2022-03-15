@@ -91,3 +91,71 @@ export const userRows = [
         transaction: '$230.00'
     }
 ];
+
+export const productRows = [
+    {
+        id: 1,
+        name: 'Nike AirMax',
+        img: "https://i.ibb.co/tXwGcM1/IMG-2297.jpg",
+        stock: 12,
+        status: 'active',
+        price: '$230.00'
+    },
+    {
+        id: 2,
+        name: 'Nike AirMax',
+        img: "https://i.ibb.co/tXwGcM1/IMG-2297.jpg",
+        stock: 12,
+        status: 'active',
+        price: '$230.00'
+    },
+    {
+        id: 3,
+        name: 'Nike AirMax',
+        img: "https://i.ibb.co/tXwGcM1/IMG-2297.jpg",
+        stock: 12,
+        status: 'active',
+        price: '$230.00'
+    },
+    {
+        id: 4,
+        name: 'Nike AirMax',
+        img: "https://i.ibb.co/tXwGcM1/IMG-2297.jpg",
+        stock: 12,
+        status: 'active',
+        price: '$230.00'
+    },
+    {
+        id: 5,
+        name: 'Nike AirMax',
+        img: "https://i.ibb.co/tXwGcM1/IMG-2297.jpg",
+        stock: 12,
+        status: 'active',
+        price: '$230.00'
+    },
+    {
+        id: 6,
+        name: 'Nike AirMax',
+        img: "https://i.ibb.co/tXwGcM1/IMG-2297.jpg",
+        stock: 12,
+        status: 'active',
+        price: '$230.00'
+    },
+    {
+        id: 7,
+        name: 'Nike AirMax',
+        img: "https://i.ibb.co/tXwGcM1/IMG-2297.jpg",
+        stock: 12,
+        status: 'active',
+        price: '$230.00'
+    },
+    {
+        id: 8,
+        name: 'Nike AirMax',
+        img: "https://i.ibb.co/tXwGcM1/IMG-2297.jpg",
+        stock: 12,
+        status: 'active',
+        price: '$230.00'
+    }
+];
+
